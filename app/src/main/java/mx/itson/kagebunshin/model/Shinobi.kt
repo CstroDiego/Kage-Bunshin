@@ -1,4 +1,4 @@
-package mx.itson.kagebunshin.entity
+package mx.itson.kagebunshin.model
 
 class Shinobi {
 

@@ -6,8 +6,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.squareup.picasso.Picasso
 import mx.itson.kagebunshin.R
-import mx.itson.kagebunshin.entity.Shinobi
-import org.w3c.dom.Text
+import mx.itson.kagebunshin.model.Shinobi
 
 class NarutoViewHolder(view: View) : RecyclerView.ViewHolder(view){
 
