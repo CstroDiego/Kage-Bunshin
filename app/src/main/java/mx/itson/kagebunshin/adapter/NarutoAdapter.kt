@@ -1,4 +1,4 @@
-package mx.itson.kagebunshin.Adapter
+package mx.itson.kagebunshin.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

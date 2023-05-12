@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-            android:id="@+id/mnEditar"
-            android:title="Editar" />
-
+        android:id="@+id/editar"
+        android:title="Editar" />
     <item
-            android:id="@+id/mnEliminar"
-            android:title="Eliminar"/>
+        android:id="@+id/eliminar"
+        android:title="Eliminar" />
 </menu>
