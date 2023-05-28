@@ -1,4 +1,4 @@
-#Kage-Bunshin
+# Kage-Bunshin
 
 Kage-Bunshin es una aplicación Android desarrollada en Kotlin que te permite explorar y descubrir información detallada sobre los personajes del popular anime Naruto. Esta aplicación se conecta a la API Kage para obtener los datos de los personajes y los muestra de manera intuitiva en tu dispositivo móvil.
 
